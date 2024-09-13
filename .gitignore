@@ -3,3 +3,5 @@ python/__pycache__
 python/.vscode
 python/CMakeLists.txt.user
 python/build
+cpp/build
+cpp/.vscode
